@@ -3,7 +3,7 @@ src: logo.svg
 plain: true
 ```
 
-Hi, Home Page!
+Hi, JS Bascis!
 
 
 
