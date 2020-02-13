@@ -1,0 +1,2 @@
+webpackJsonp([17],{800:function(n,e,t){var o=t(15),a=t(45),r=t(92).PageRenderer;r.__esModule&&(r=r.default);var i=a({displayName:"WrappedPageRenderer",getInitialState:function(){return{content:t(818)}},componentWillMount:function(){},render:function(){return o.createElement(r,Object.assign({},this.props,{content:this.state.content}))}});i.__catalog_loader__=!0,n.exports=i},818:function(n,e){n.exports="```image\nsrc: logo.svg\nplain: true\n```\n\nHi, Home Page!\n\n\n\n"}});
+//# sourceMappingURL=17.f6638cb4.chunk.js.map

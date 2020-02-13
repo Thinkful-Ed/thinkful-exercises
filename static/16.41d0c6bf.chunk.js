@@ -1,0 +1,2 @@
+webpackJsonp([16],{794:function(n,e,t){var r=t(15),o=t(45),a=t(92).PageRenderer;a.__esModule&&(a=a.default);var s=o({displayName:"WrappedPageRenderer",getInitialState:function(){return{content:t(812)}},componentWillMount:function(){},render:function(){return r.createElement(a,Object.assign({},this.props,{content:this.state.content}))}});s.__catalog_loader__=!0,n.exports=s},812:function(n,e){n.exports="```image\nsrc: logo.svg\nplain: true\n```\n\nHi, JS Assesment Prep!\n\n\n\n"}});
+//# sourceMappingURL=16.41d0c6bf.chunk.js.map

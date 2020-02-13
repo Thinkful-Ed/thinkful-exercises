@@ -1,0 +1,2 @@
+webpackJsonp([10],{783:function(n,e,t){var a=t(15),o=t(45),r=t(92).PageRenderer;r.__esModule&&(r=r.default);var i=o({displayName:"WrappedPageRenderer",getInitialState:function(){return{content:t(801)}},componentWillMount:function(){},render:function(){return a.createElement(r,Object.assign({},this.props,{content:this.state.content}))}});i.__catalog_loader__=!0,n.exports=i},801:function(n,e){n.exports="```image\nsrc: logo.svg\nplain: true\n```\n\nHi, JS Bascis!\n\n\n\n"}});
+//# sourceMappingURL=10.3942ec78.chunk.js.map
