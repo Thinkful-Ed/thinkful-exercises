@@ -10,3 +10,15 @@ Welcome to the Thinkful Exercises App. To get started immediately, check out the
 - `static/`: A directory with files that are served statically. For example the Thinkful logo above.
 
 For more details about how to use this framework, check out the [documentation](https://docs.catalog.style/).
+
+
+## Deploy GitHub Pages
+
+#### Build
+```
+npm run catalog-build
+```
+#### Push to gh-pages
+```
+ git subtree push --prefix catalog/build origin gh-pages
+```
