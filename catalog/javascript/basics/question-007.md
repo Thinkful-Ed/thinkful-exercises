@@ -3,7 +3,7 @@ src: logo.svg
 plain: true
 ```
 ### Question
-1. Write a function named printAlphabetically that takes an array of fruits returns a new alphabetically sorted array.
+1. Write a function named soryAlphabetically that takes an array of fruits returns a new alphabetically sorted array.
 
 ### Example
 ```code
