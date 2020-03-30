@@ -3,13 +3,15 @@ src: logo.svg
 plain: true
 ```
 ### Question
-1. Fix the function below to return the parameterVal in lower case and commas removed. Ideally, you'd only write one line of code.
+1. Write a function named printAlphabetically that takes an array of fruits returns a new alphabetically sorted array.
 
 ### Example
 ```code
 lang: js
 ---
-greeting("Yo, JavaScript") // return "yo javascript"
+const fruits = ['Orange', 'Apple', 'Bananas', 'Peach'];
+ 
+sortAlphabetically(fruits) // returns ['Apple', 'Bananas', 'Orange', 'Peach']
 ```
 ### You Code
 ```html
